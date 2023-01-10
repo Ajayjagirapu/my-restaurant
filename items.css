@@ -1,0 +1,30 @@
+#id1{
+    color:rgb(83, 10, 162);
+    font-style: serif;
+    font-size :50px;
+    font-weight:bold;
+    margin-left: 500px;
+    
+}
+#id2{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size:larger;
+    color: slategray;
+    margin-left: 500px;
+    
+    
+}
+#but1{
+    margin-left: 500px;
+    width:600px;
+}
+header{
+    background-color:rgb(162, 224, 224);
+    width: 100%;
+    margin-top: 0%;
+}
+.f1{
+
+    width: 100%;
+    height: 1500px;
+}
